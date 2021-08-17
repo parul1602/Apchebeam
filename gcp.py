@@ -6,7 +6,7 @@ from apache_beam.io import WriteToText
 from apache_beam.io.gcp.internal.clients import bigquery
 from apache_beam.runners.common import unicode
 from apache_beam.typehints import with_output_types
-
+#git update
 
 def print_row(element):
     print(element)
